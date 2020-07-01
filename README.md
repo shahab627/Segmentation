@@ -1,0 +1,2 @@
+# Segmentation
+Display Segment Table &amp; Physical Memory Initialize p0: 8, p1:10, p2: 14, p3: 4 Create segments and allocate memory to each processes Values of these Blocks will be process number Display the states of arrays after allocation Remove process p0 &amp; P2 Display array states Add a new process P4: 12 Allocate the Segment &amp; Memory Space Get all the Blocks of memory that are allocated to p1
